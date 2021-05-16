@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Domain\\Domain.csproj": {}
+    "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Domain\\Domain.csproj": {
+    "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ajant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajant\\AppData\\Roaming\\NuGet\\NuGet.Config",

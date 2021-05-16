@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/ZjN+G8A2Ee24hjQj0EP2U+3J383Apzu/kJt1oMTpfEXuzioncrk40o48nIlN85X3bc0+Mx94YXvte/eSXssA==",
+  "dgSpecHash": "7pZztI2/wzG2uKDDonfBp9PBV3x/yHddDyvmdKm992Zesa3Hl4OrVjbSoCK1+Hzso0ydXuTJMsBog4103vmWUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ajant\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ajant\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

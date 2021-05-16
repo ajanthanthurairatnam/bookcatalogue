@@ -9151,11 +9151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\ajant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\tests\\obj\\",
+      "outputPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajant\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9172,8 +9172,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\API\\API.csproj": {
-              "projectPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\API\\API.csproj"
+            "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\API\\API.csproj"
             }
           }
         }

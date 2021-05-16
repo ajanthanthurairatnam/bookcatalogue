@@ -5927,11 +5927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ajant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajant\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5948,8 +5948,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\ajant\\OneDrive\\Documents\\GitHub\\bookcatalogue\\Application\\Application.csproj"
+            "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\ajant\\source\\repos\\BookCatalogue\\Application\\Application.csproj"
             }
           }
         }
