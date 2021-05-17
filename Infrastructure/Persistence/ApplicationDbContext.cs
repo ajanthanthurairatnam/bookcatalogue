@@ -9,7 +9,7 @@ namespace BookCatalogue.Infrastructure
     {
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
-
+            this.Database.EnsureCreated();
         }
 
         public DbSet<Author> Authors { get; set; }
